@@ -8,5 +8,7 @@ namespace Draughts.Model
     public class Player
     {
         public string firstName { get; set; }
+
+        public int age { get; set; }
     }
 }
