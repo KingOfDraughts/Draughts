@@ -9,6 +9,7 @@ namespace Draughts.Model
     {
         public string firstName { get; set; }
 
-        public int age { get; set; }
+
+ 
     }
 }
